@@ -1,10 +1,8 @@
-# [Welcome to PLANITNOW ✈️](https://planitnow.xyz)
-![Forks](https://badgen.net/github/forks/Arun9739/Paryatana?icon=github&scale=1.2&color=red&cache=300) &nbsp;
-![Stars](https://badgen.net/github/stars/Arun9739/Paryatana?icon=https://upload.wikimedia.org/wikipedia/commons/a/a3/Orange_star.svg&scale=1.2&color=orange&cache=300) &nbsp;
-![License](https://badgen.net/badge/license/MIT/purple?scale=1.2) &nbsp;<br>
+# [Welcome to PLANITNOW ✈️](planitnow.xyz)
+
 Click [here](https://planitnow.xyz) to have a look at our website.
 <p align="center">
-Paryatana is a front-end website for a travel agency. The website contains details about tourist destinations, available hotels and car booking services. We focus on displaying various attractive places within the country and tourist packages are updated as they are announced by the travel agency. Details about the founder and manager are included, together with links to the Paryatana website social media pages.
+Planitnow is a front-end website for a travel agency. The website contains details about tourist destinations, available hotels and car booking services. We focus on displaying various attractive places within the country and tourist packages are updated as they are announced by the travel agency. Details about the founder and manager are included, together with links to the Paryatana website social media pages.
 </p>
 
 <br> <br>
@@ -28,9 +26,7 @@ Paryatana is a front-end website for a travel agency. The website contains detai
 - If you can modify the User Interface to improve User Experience on the website raise an issue with the proposed changes. 
 - If you would like to add more functionality to the site raise an issue with the proposed changes.
  
-## Contributing Guidelines
-- Take a look at [`contributing guidelines`](Contributing.md) if you're interested in contributing!
-- Refer [GitHub Flow](https://guides.github.com/introduction/flow).
+
 
 ## The heart of this project are our contributors : 
 
@@ -38,6 +34,6 @@ Paryatana is a front-end website for a travel agency. The website contains detai
   <img src="https://contrib.rocks/image?repo=Arun9739/Paryatana"/>
 </a>
 
-## [MIT Licensed](https://github.com/Arun9739/Paryatana/blob/main/LICENSE)
+
 
 
