@@ -1,4 +1,4 @@
-# [Welcome to PLANITNOW ✈️](planitnow.xyz)
+# [Welcome to PLANITNOW ✈️](https://planitnow.xyz)
 
 Click [here](https://planitnow.xyz) to have a look at our website.
 <p align="center">
